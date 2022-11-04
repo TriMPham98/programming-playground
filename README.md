@@ -1,2 +1,2 @@
 # programming-playground
-This is a playground repo for different programming languages
+This is a playground repo for different programming languages.
