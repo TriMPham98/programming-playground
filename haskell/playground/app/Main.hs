@@ -1,3 +1,7 @@
+{-
+This is a multiline comment in Haskell
+-}
+
 module Main where
 
 main :: IO ()
